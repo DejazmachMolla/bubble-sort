@@ -14,7 +14,12 @@
 
 - Clone the project in to your computer using `git clone https://github.com/DejazmachMolla/bubble-sort.git` 
 - `cd` into the `bubble-sort` folder
-- run the command `ruby bubble-sort.rb`
+- Open buuble_sort.rb and add the following 4 lines at the end to test the program
+  > - print bubble_sort([6, 5, 7, 3, 9, 0])
+  > - puts
+  > - print bubble_sort_by(["Abebe", "Kebede", "Amy", "Abe"]) { |a, b| a.length <=> b.length }
+  > - puts
+- run the command `ruby bubble_sort.rb`
 
 ## Authors
 
